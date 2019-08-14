@@ -1,0 +1,63 @@
+C:\Users\CID SONORA\source\repos\Programa de interconexion\obj\Debug\Programa de interconexion.csprojAssemblyReference.cache
+C:\Users\CID SONORA\source\repos\Programa de interconexion\obj\Debug\MainWindow.g.cs
+C:\Users\CID SONORA\source\repos\Programa de interconexion\obj\Debug\VentanaSolicitud.g.cs
+C:\Users\CID SONORA\source\repos\Programa de interconexion\obj\Debug\App.g.cs
+C:\Users\CID SONORA\source\repos\Programa de interconexion\obj\Debug\Programa de interconexion_MarkupCompile.cache
+C:\Users\CID SONORA\source\repos\Programa de interconexion\obj\Debug\Programa de interconexion_MarkupCompile.lref
+C:\Users\CID SONORA\source\repos\Programa de interconexion\bin\Debug\Programa de interconexion.exe.config
+C:\Users\CID SONORA\source\repos\Programa de interconexion\bin\Debug\Programa de interconexion.exe
+C:\Users\CID SONORA\source\repos\Programa de interconexion\bin\Debug\Programa de interconexion.pdb
+C:\Users\CID SONORA\source\repos\Programa de interconexion\obj\Debug\VentanaConstancia.g.cs
+C:\Users\CID SONORA\source\repos\Programa de interconexion\obj\Debug\VentanaCroquis.g.cs
+C:\Users\CID SONORA\source\repos\Programa de interconexion\obj\Debug\VentanaDiagrama.g.cs
+C:\Users\CID SONORA\source\repos\Programa de interconexion\obj\Debug\VentanaFichasTecnicas.g.cs
+C:\Users\CID SONORA\source\repos\Programa de interconexion\obj\Debug\VentanaFotos.g.cs
+C:\Users\CID SONORA\source\repos\Programa de interconexion\obj\Debug\VentanaIdentificacion.g.cs
+C:\Users\CID SONORA\source\repos\Programa de interconexion\obj\Debug\MainWindow.baml
+C:\Users\CID SONORA\source\repos\Programa de interconexion\obj\Debug\VentanaSolicitud.baml
+C:\Users\CID SONORA\source\repos\Programa de interconexion\obj\Debug\VentanaConstancia.baml
+C:\Users\CID SONORA\source\repos\Programa de interconexion\obj\Debug\VentanaCroquis.baml
+C:\Users\CID SONORA\source\repos\Programa de interconexion\obj\Debug\VentanaDiagrama.baml
+C:\Users\CID SONORA\source\repos\Programa de interconexion\obj\Debug\VentanaFichasTecnicas.baml
+C:\Users\CID SONORA\source\repos\Programa de interconexion\obj\Debug\VentanaFotos.baml
+C:\Users\CID SONORA\source\repos\Programa de interconexion\obj\Debug\VentanaIdentificacion.baml
+C:\Users\CID SONORA\source\repos\Programa de interconexion\obj\Debug\Programa de interconexion.g.resources
+C:\Users\CID SONORA\source\repos\Programa de interconexion\obj\Debug\Programa_de_interconexion.Properties.Resources.resources
+C:\Users\CID SONORA\source\repos\Programa de interconexion\obj\Debug\Programa de interconexion.csproj.GenerateResource.cache
+C:\Users\CID SONORA\source\repos\Programa de interconexion\obj\Debug\Programa de interconexion.csproj.CoreCompileInputs.cache
+C:\Users\CID SONORA\source\repos\Programa de interconexion\obj\Debug\Programa de interconexion.exe
+C:\Users\CID SONORA\source\repos\Programa de interconexion\obj\Debug\Programa de interconexion.pdb
+C:\Users\CID SONORA\source\repos\Programa de interconexion\obj\Debug\VentanaContratos.g.cs
+C:\Users\CID SONORA\source\repos\Programa de interconexion\obj\Debug\VentanaContratos.baml
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\bin\Debug\Programa de interconexion.exe.config
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\bin\Debug\Programa de interconexion.exe
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\bin\Debug\Programa de interconexion.pdb
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\obj\Debug\Programa de interconexion.csprojAssemblyReference.cache
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\obj\Debug\Programa de interconexion.csproj.ResolveComReference.cache
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\obj\Debug\MainWindow.g.cs
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\obj\Debug\VentanaConstancia.g.cs
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\obj\Debug\VentanaContratos.g.cs
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\obj\Debug\VentanaCroquis.g.cs
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\obj\Debug\VentanaDiagrama.g.cs
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\obj\Debug\VentanaFichasTecnicas.g.cs
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\obj\Debug\VentanaFotos.g.cs
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\obj\Debug\VentanaIdentificacion.g.cs
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\obj\Debug\VentanaSolicitud.g.cs
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\obj\Debug\App.g.cs
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\obj\Debug\Programa de interconexion_MarkupCompile.cache
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\obj\Debug\Programa de interconexion_MarkupCompile.lref
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\obj\Debug\MainWindow.baml
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\obj\Debug\VentanaConstancia.baml
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\obj\Debug\VentanaContratos.baml
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\obj\Debug\VentanaCroquis.baml
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\obj\Debug\VentanaDiagrama.baml
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\obj\Debug\VentanaFichasTecnicas.baml
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\obj\Debug\VentanaFotos.baml
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\obj\Debug\VentanaIdentificacion.baml
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\obj\Debug\VentanaSolicitud.baml
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\obj\Debug\Programa de interconexion.g.resources
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\obj\Debug\Programa_de_interconexion.Properties.Resources.resources
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\obj\Debug\Programa de interconexion.csproj.GenerateResource.cache
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\obj\Debug\Programa de interconexion.csproj.CoreCompileInputs.cache
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\obj\Debug\Programa de interconexion.exe
+C:\Users\Robotica\Downloads\Botella-master\Botella-master\Programa de interconexion\obj\Debug\Programa de interconexion.pdb
